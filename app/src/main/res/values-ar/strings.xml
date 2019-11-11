@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TransIT(railway, س ح ك)</string>
+
+
+    <string name="syncBtn">تواصل مع الخادم/ تزامن</string>
+    <string name="loginBtn">تسجيل دخول</string>
+    <string name="exitBtn">خروج</string>
+
+
+
+    <string name="deviceIDTextview"> رقم الماكينه</string>
+    <string name="deviceIdEditText">برجاء ادخال رقم الماكينه  </string>
+    <string name="serverIpTextview">رقم الخادم </string>
+    <string name="serverIpEditText">برجاء ادخال رقم الخادم</string>
+
+    <string name="LastUpdateTextview">تاريخ أخر تحديث</string>
+
+
+</resources>

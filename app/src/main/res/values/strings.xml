@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TransIT(railway, س ح ك)</string>
+
+
+    <string name="syncBtn">SYNC</string>
+    <string name="loginBtn">LOGIN</string>
+    <string name="exitBtn">EXIT</string>
+
+
+    <string name="deviceIDTextview">Device ID</string>
+    <string name="deviceIdEditText">Enter the device id </string>
+    <string name="serverIpTextview">Server IP</string>
+    <string name="serverIpEditText">Enter the Server IP</string>
+
+    <string name="LastUpdateTextview">Last Update</string>
+
+    <string name="userNameTextview">User Name:</string>
+    <string name="userNameEditText">Enter User Name Please</string>
+
+    <string name="passwordTextview">Password:</string>
+    <string name="passwordEditText">Enter Password Please</string>
+
+    <string name="loginbtn">Login</string>
+
+    <string name="userIDTextview">User ID:</string>
+    <string name="userIDEditText">Enter User ID Please</string>
+    <string name="checkbtn">Check</string>
+
+
+    <string name="cashFundsTextView">Cash Funds: </string>
+    <string name="cashFundsEditText">Enter Cash Funds Please</string>
+    <string name="printbtn">Print</string>
+    <string name="notesEditText">Notes: </string>
+
+
+    <string name="JobTextview">Job</string>
+    <string-array name="jobSpinner_array">
+        <item>on Board Conductor (صراف على القطار )</item>
+        <item>on Board Conductor (صراف على القطار )</item>
+    </string-array>
+    <string name="confrimkbtn">Confirm</string>
+
+    <string name="stationNoEditText">Enter Station No.Please</string>
+    <string name="stationNameEditText">Enter Station Name Please</string>
+    <string name="stationTextview">Station:</string>
+
+
+    <string name="EnglishTextview">English</string>
+    <string name="ArabicTextview">عربى</string>
+
+
+
+
+</resources>
